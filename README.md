@@ -1,5 +1,5 @@
-This is a matrix completion method written by Sicong Ma at SIOC.
+This matrix completion Python code was written by Sicong Ma at SIOC (Shanghai Institute of Organic Chemistry).
 
-This python script can be used for the reconstruction of Euclidean distance matrix.
+This Python script is designed for the reconstruction of Euclidean distance matrices.
 
-The details of this method can be found in the literature "Tasissa A, Lai R. IEEE Transactions on Information Theory, 2018, 65, 3124".
+Further details of the method can be found in the paper: "Tasissa A., Lai R., IEEE Transactions on Information Theory, 2018, 65, 3124."
